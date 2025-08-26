@@ -1,2 +1,13 @@
-# Amazon-clone
-Amazon Clone built with HTML and CSS. Features include a navigation bar, hero section, product category boxes, and footer. Created to practice front-end skills like layout design, flexbox, positioning, and hover effects. Future updates may add responsiveness and JavaScript interactivity.
+A simple Amazon Clone built using HTML, CSS to practice front-end web development.
+
+🚀 Features
+🔹 Responsive navigation bar (logo, address, search bar, account, orders, cart)
+🔹 Interactive search bar with hover effects
+🔹 Hero section with background image & promotional message
+🔹 Product shop section with category boxes (Clothes, Electronics, Furniture, etc.)
+🔹 Hover effects for better UI experience
+🔹Footer with navigation links
+
+Tech Stack
+HTML5
+CSS3
